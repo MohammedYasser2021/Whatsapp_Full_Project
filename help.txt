@@ -1,0 +1,3 @@
+in terminal       
+1) npm install express 
+2) node setup-server.js
